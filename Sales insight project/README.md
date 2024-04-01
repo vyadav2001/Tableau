@@ -47,5 +47,6 @@ and transactions.market_code="Mark001";`
 
 ## Screenshots
 
-![App Screenshot](<img width="1440" alt="Screenshot 2024-04-01 at 10 37 13 PM" src="https://github.com/vyadav2001/ML-Project-Bangalore-Home-Price-Prediction/assets/101548714/ef50080c-b514-407f-8be8-78b26017bd99">)
+<img width="1440" alt="Screenshot 2024-04-01 at 10 37 13 PM" src="https://github.com/vyadav2001/Tableau/assets/101548714/46aeeb0f-8d51-4946-bf49-34158039dbfd">
+
 
